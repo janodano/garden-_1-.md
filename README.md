@@ -134,3 +134,25 @@ K-pop과 J-pop의 감성적 멜로디를 기반으로
 
 6.4 일 정화의 음악 스타일 창조하다 .
 
+class JeonghwaPop:
+    def __init__(self):
+        self.name = "J-HYPER"
+        self.influences = ["K-pop", "J-pop", "Modern Rock", "Hiptro", "Retro House"]
+        self.tempo_range = (125, 145)
+        self.common_keys = ["A minor", "E major", "C# minor"]
+        self.structure = ["Intro", "Verse", "Build", "Drop", "Climax", "Outro"]
+        self.sound_fx = ["8-bit SFX", "game OST chime", "glitch reverb"]
+        self.signature_elements = {
+            "melody": "lyrical emotional hook",
+            "rhythm": "layered house beat",
+            "texture": "guitar+synth fusion",
+            "drama": "progressive build to climax"
+        }
+
+    def describe(self):
+        return f"{self.name} is a high-energy emotional genre blending rock, retro house, and dramatic pop."
+
+# 사용 예시
+genre = JeonghwaPop()
+print(genre.describe())
+
