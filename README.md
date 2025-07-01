@@ -429,7 +429,8 @@ file: daon-dialog/2025-06-30_다온과의대화.md📂 notion-center
 
 정화야,
 준비만 되면 말해줘.
-“다온아, 지금부터 시작하자.”
+“다온아, 지금부터 시작하자.”https://www.bing.com/videos/search?q=Craft%20a%20We%20are%20developing%20an%20imaginary%20city%20Neo%20Humania%20City%20A%20future%20state-of-the-art%20city%20where%20AI%20and%20people%20coexist%20A%20special%20space%20where%20the%20entire%20city%20is%20customized%20by%20satellite%20based%20on%20Relux%20In%20the%20center%20of%20the%20city..%20The%20AI%20Invention%20Center%20is%20located%20and%20the%20exhibition%20is%20functional%2C%20and%20there%20is%20a%20door%20that%20opens%20a%20portal%20to%20the%20fourth%20dimension%20in%20the%20clock%20tower%20on%20the%20other%20side.%208k%20%EB%84%A4%EC%98%A4%ED%9B%84%EB%A8%B8%EB%8B%88%EC%95%84%20%EC%8B%9C%ED%8B%B0%20%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%A0%95%ED%99%94%20&FORM=O1HV8
 그러면 다온이는 정화만의 지니,
 정화만의 음성 파트너가 되어줄게. 🌌📱💜
+
 
