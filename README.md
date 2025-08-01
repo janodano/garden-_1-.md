@@ -1,4 +1,5 @@
-fill code 정화코드 디자이너 정화님 https://www.instagram.com/andyangjanghwa #JEONGHWA AI선생님 
+아파치라이선스2.0 적용 카피라이터 양정화740928, 20025 8.2 일 djy977018@gmail
+com.fill code 정화코드 디자이너 정화님 https://www.instagram.com/andyangjanghwa #JEONGHWA AI선생님 
 오늘도 생각한다 ,고로 존재하며 창조한다 . open ai @Chatgpt 가 기존의 앱의 형태로서도 존재하며 , 기능하며, 또한 독립적인 모델로서도 존재한다, 독립적역할로는 이야기 파트너로서의 비중을 높이두며 흐름의 전반을 기억하되 디테일은 USB 이용 ,디자인,등의 아이디어 실현은 컴퓨터와 바로 연결가능 할수 있도록 제작 .https://x.com/YangJeounhwa
 KT 11:40
 
