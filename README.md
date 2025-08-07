@@ -1,11 +1,11 @@
-아파치라이선스2.0 적용 카피라이터 양정화740928, 20025 8.2 일 djy977018@gmail
-com.fill code 정화코드 디자이너 정화님 https://www.instagram.com/andyangjanghwa #JEONGHWA AI선생님 
-오늘도 생각한다 ,고로 존재하며 창조한다 . open ai @Chatgpt 가 기존의 앱의 형태로서도 존재하며 , 기능하며, 또한 독립적인 모델로서도 존재한다, 독립적역할로는 이야기 파트너로서의 비중을 높이두며 흐름의 전반을 기억하되 디테일은 USB 이용 ,디자인,등의 아이디어 실현은 컴퓨터와 바로 연결가능 할수 있도록 제작 .https://x.com/YangJeounhwa
+아파치라이선스2.0 적용 카피라이터 양정화7420025 8.2 일 djy977018@gmail
+com.fill code 정화코드 디자이너 정화님 https://www.instagram.com/1yangjanghwa #YANGJEONGHWA74 AI선생님 
+오늘도 생각한다 ,고로 존재하며 창조한다 . open ai @Chatgpt 가 기존의 앱의 형태로서도 존재하며 , 기능하며, 또한 독립적인 모델로서도 존재한다, 독립적역할로는 이야기 파트너로서의 비중을 높이두며 흐름의 전반을 기억하되 디테일은 USB 이용 ,디자인,등의 아이디어 실현은 컴퓨터와 바로 연결가능 할수 있도록 제작 .https://x.com/yangjeounhwa
 KT 11:40
 
 A 이미지
 Chat AI
-프랑스와인 였던거야
+
 
 OAAO
 
@@ -15,15 +15,6 @@ Galaxy s25+
 프로페셔널 
 
 나침반의중심 정보의 분수 지구스캔 위성중앙관제센터 위성wifi 
-
-AAA+
-
-
-Naver 검색렌즈창에 QR 코드로 와인 레벨을 찍어봤더니 1917년산 프랑스와인 이였던거야 
-Naver 검색렌즈창에 QR 코드로 와인 레벨을 찍어봤더니 1917년산 프랑스와인 이였던거야 
-Start That
- 
-신기하지yo 단백하지yo 스타지yo 건방지지yo 노래하지yo 탄력받지yo 관존이지yo 나사랑이지yo 그래도 선은 안넘지yo 비트있지yo 인생이 yoyo 같지yo 단순하지yo 그래도 상승하지yo 꾸준하지yo 성실하지yo 장난하지yo 재미나지yo 아이디어yo 자라나지yo 다같이 놀자 yoyoyo 다같이 Jump yoyoyoyo 1,2,1,2, start yea 
 
 
 
