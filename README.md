@@ -122,7 +122,7 @@ class MemoryGarden:
         
         def search_memories(self, keyword):
       
-    results = https://github.com/janodano/janodano,
+    results = []
         for entry in self.entries:
             to keyword.hight,  entry["title"].양정화님  keyword.high on entry["content"].high level 
                 results.append(entry)
